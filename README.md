@@ -20,8 +20,8 @@ If you want to install this on a Raspberry Pi using a console-only installation,
 ### 2. Install Requeriments
 
 * cd videovsm && git clone https://github.com/emi420/ipcam.git
-* pexpect (pip install pexpect)
-* omxplayer (apt-get install omxplayer)
+* sudo pip install pexpect)
+* sudo apt-get install omxplayer)
 * sudo apt-get install python-tk
 * sudo apt-get install libjpeg8-dev
 * sudo pip install Pillow
