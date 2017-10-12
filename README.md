@@ -50,7 +50,7 @@ Vital Signs Monitor's data is in HL7 format and loaded from gui/response.xml, yo
 
 ## License
 
-You may use any Mootor project under the terms of either the MIT License or the GNU General Public License (GPL) Version 3.
+You may use any VideoVSM project under the terms of either the MIT License or the GNU General Public License (GPL) Version 3.
 
 (c) 2017 Emilio Mariscal
 
