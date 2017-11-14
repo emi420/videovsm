@@ -24,12 +24,12 @@ startx &
 sleep 10
 
 # GUI
-cd /home/pi/gui
+cd /home/pi/videovsm/gui
 ./start.sh 
 
 # Video
 
-cd /home/pi/video
+cd /home/pi/videovsm/video
 ./start.sh
 
 exit 0
