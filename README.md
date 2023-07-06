@@ -2,6 +2,8 @@
 
 Display video stream and vital signs monitor's data on screen.
 
+![photo_2023-07-06 00 26 04](https://github.com/emi420/videovsm/assets/1226194/19894206-9b4a-48fb-9462-7e55f65de85c)
+
 ## Installation
 
 ### Raspberry Pi console-only
